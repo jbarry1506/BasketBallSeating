@@ -1,0 +1,17 @@
+#basketballMap{
+        z-index: 2;         
+    height: 900px;
+    width: 1050px;
+    position:absolute;
+    left:10px;
+    top:20px;
+    margin-left: 860px;
+    left:0;
+    top:0;
+    background: url('../areaMap/resources/kfc-yum-center2-steel.png') no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    /*border: 2px double black;*/
+    clear: both;
+    opacity:.9;
+}
